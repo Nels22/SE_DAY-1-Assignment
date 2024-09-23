@@ -2,14 +2,14 @@
 Software Engineering Day1 Assignment
 # Part 1: Introduction to Software Engineering
 
-# Explain what software engineering is and discuss its importance in the technology industry.
+## Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. 
 It involves the design, development, testing, deployment, and maintenance of software products.
 
 Software engineering is important in the technology industry since it plays a crucial role in the technology industry by enabling the creation of software applications and systems
 that power various aspects of modern life, including communication, commerce, entertainment, and healthcare
 
-# Identify and describe at least three key milestones in the evolution of software engineering.
+## Identify and describe at least three key milestones in the evolution of software engineering.
 The evolution of software engineering is marked by several transformative milestones like the development of programming languages (e.g. Fortran, C), establishment of software engineering as a discipline, structured programming and the rise of agile development methodologies.
 that have redefined both the practice and the profession especially in the development 
 # a. The Introduction of structured programming (1960s-1970s) 
